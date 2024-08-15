@@ -3,7 +3,7 @@
 I'm Adam Xu, and I've worked on a few projects.
 
 ## Contact
-- Email me at `con`*t*[ac](https://github.com/AdamEXu)**t @ a**_d[am](https://github.com/AdamEXu)_`xu` [.](#) *net* (remove spaces and markdown, please don't send spam my way)
+- [Email me!](https://adamxu.net/open/email) Sadly I cannot put my email here or bots will spam my inbox. Click the link to open my email instead! (Powered by Cloudflare, you may see a captcha!)
 - DM me on Discord (Username: @thetnter)
 
 <!--
