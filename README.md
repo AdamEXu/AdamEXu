@@ -2,19 +2,8 @@
 
 I'm Adam Xu, and I've worked on a few projects.
 
-## About me
-- I really love coding, and many of the "smaller" projects I have worked on are not on my GitHub (yet).
-- I completed CS50 and got the certificate!
-
-## Projects
-- [PanthrAI](https://github.com/panthrapp/panthrai) - An AI chatbot to get the school's lunch menu and schedule data easily
-    - [Website](https://panthr.app/)
-- [OpenBot](https://github.com/AdamEXu/OpenBot) - A Slack bot that can collect daily standups and store them
-- [Webmaster for my BSA Troop](https://github.com/AdamEXu/JoinTroop14) - Created a recruitment website for my Boy Scouts troop
-    - [Website](https://troop14.vercel.app/)
-
 ## Contact
-- Email me at [contact@adamxu.net](mailto:contact@adamxu.net?subject=Hello!&body=Hi%20Adam%2C%0A%0AJust%20wanted%20to%20reach%20out%20to%20you%20regarding%20your%20GitHub%20page!%0A%0A).
+- Email me at `con`*tac***t @ a**_dam_`xu . `__ net__
 - DM me on Discord (Username: @thetnter)
 
 <!--
